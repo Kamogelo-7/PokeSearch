@@ -5,8 +5,6 @@
 }
 :root {
   --bg-color-primary: hsl(29, 100%, 26%);
-  --bg-color-secondary: ;
-  --bg-color-accent: ;
   --btn-bg-color: hsl(0, 0%, 0%);
   --btn-text-color: hsl(0, 0%, 100%);
   --input-bg-color: hsl(0, 0%, 0%);
