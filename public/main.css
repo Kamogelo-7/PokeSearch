@@ -29,6 +29,12 @@ body {
   /* overflow: hidden; */
 }
 
+small {
+  font-size: medium;
+  bottom: 0;
+  position: absolute;
+  color: hsl(0, 0%, 31%);
+}
 p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-weight: bold;
